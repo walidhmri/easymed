@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "403001267424",
+    "project_id": "easy-med-c3f69",
+    "storage_bucket": "easy-med-c3f69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403001267424:android:b3d0a535a89e9a052f6c85",
+        "android_client_info": {
+          "package_name": "com.easymed_easy_malade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Uwfkna46w-gHCLb3o-jS9kmHtWLjlNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403001267424-38sg0nregkh7c2b82gqf5bs1r0841ak5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easymedOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403001267424:android:c78b27bcac7bb5652f6c85",
+        "android_client_info": {
+          "package_name": "com.example.easy_malade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403001267424-1fho8km459aj98ufglld76cvp2dntq9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easy_malade",
+            "certificate_hash": "fa292d894e7ec3605f1e72e19306f0e133cec755"
+          }
+        },
+        {
+          "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Uwfkna46w-gHCLb3o-jS9kmHtWLjlNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403001267424-38sg0nregkh7c2b82gqf5bs1r0841ak5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easymedOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403001267424:android:8772904c8407b75c2f6c85",
+        "android_client_info": {
+          "package_name": "com.example.easy_soignant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Uwfkna46w-gHCLb3o-jS9kmHtWLjlNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403001267424-38sg0nregkh7c2b82gqf5bs1r0841ak5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easymedOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403001267424:android:2317d12ef6b3dfc02f6c85",
+        "android_client_info": {
+          "package_name": "com.example.easymed_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Uwfkna46w-gHCLb3o-jS9kmHtWLjlNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403001267424-9q2vspv42353nf4fbrbbbk52t9ptnq41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403001267424-38sg0nregkh7c2b82gqf5bs1r0841ak5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easymedOnline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
