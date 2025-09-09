@@ -35,10 +35,10 @@ android {
 
     signingConfigs {
         create("release") {
-            storeFile = file("C:/Users/HP/Easy med/key.jks")
-            storePassword = "t94BSQvT6mr67s"
-            keyAlias = "key"
-            keyPassword = "t94BSQvT6mr67s"
+            storeFile = file("C:/oualid/keystores/projet23/projet23-release-key.jks")
+            storePassword = "walid2025"
+            keyAlias = "projet23_alias"
+            keyPassword = "walid2025"
         }
     }
 
