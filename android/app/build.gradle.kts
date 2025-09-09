@@ -33,14 +33,14 @@ android {
         versionName = flutter.versionName
     }
 
-    signingConfigs {
-        create("release") {
-            storeFile = file("C:/oualid/keystores/projet23/projet23-release-key.jks")
-            storePassword = "walid2025"
-            keyAlias = "projet23_alias"
-            keyPassword = "walid2025"
-        }
+signingConfigs {
+    create("release") {
+        storeFile = file(System.getenv("KEYSTORE_PATH"))
+        storePassword = System.getenv("KEYSTORE_PASSWORD")
+        keyAlias = System.getenv("KEY_ALIAS")
+        keyPassword = System.getenv("KEY_PASSWORD")
     }
+}
 
     buildTypes {
         release {
